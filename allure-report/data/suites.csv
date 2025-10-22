@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1951","Login with valid data from DB","","Wed Oct 22 15:36:12 EET 2025","passed","Wed Oct 22 15:36:14 EET 2025","Login Feature","spec\login.spec.ts","",""
+"","1688","Login with invalid usernameand valid password from DB","","Wed Oct 22 15:36:14 EET 2025","passed","Wed Oct 22 15:36:16 EET 2025","Login Feature","spec\login.spec.ts","",""
+"","1528","Login with valid usernameand invalid password from DB","","Wed Oct 22 15:36:16 EET 2025","passed","Wed Oct 22 15:36:18 EET 2025","Login Feature","spec\login.spec.ts","",""
